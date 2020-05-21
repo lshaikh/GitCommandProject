@@ -1,2 +1,4 @@
 # GitCommandProject
-Under this repository we are going to learn all commands. 
+Hello Friend,
+
+This my first time usin github.
